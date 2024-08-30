@@ -30,7 +30,8 @@ The **Pizza Order Form** project is a React-based form application designed to h
 ## References
 
 - [Pizza Order Form Component](./src/Form.js)
-- [Validation Schema](./src/validationSchema.js) (if separated)
+- [Home Component](./src/Home.js)
+- [App Component](./src/App.js) 
 
 
 ## Contact
