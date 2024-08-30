@@ -30,7 +30,7 @@ The **Pizza Order Form** project is a React-based form application designed to h
 ## References
 
 - [Pizza Order Form Component](./src/Form.js)
-- [Home Component](./src/Home.js)
+- [Home Component](https://github.com/naz781/W_S7_Challenge/blob/main/frontend/components/App.js)
 - [App Component](./src/App.js) 
 
 
